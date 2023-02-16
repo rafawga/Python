@@ -1,2 +1,2 @@
 # Python
-Esse repositório será para guardar projetos pessoais em python
+Esse repositório terá meus projetos pessoais e exercícios em python.
